@@ -1,5 +1,6 @@
 package guis;
 import java.awt.Color;
+import java.awt.Graphics;
 
 import javax.swing.*;
 
@@ -9,6 +10,8 @@ public abstract class BaseFrame extends JFrame{
 	}
 	
 	private void intialize(String title) {
+		
+
 		
 	    getContentPane().setBackground(new Color(255,255,255));
 
@@ -35,4 +38,6 @@ public abstract class BaseFrame extends JFrame{
 	}
 	
 	protected abstract void addGuiComponents();
+
+	
 }
