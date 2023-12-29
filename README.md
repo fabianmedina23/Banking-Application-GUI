@@ -9,11 +9,10 @@ Java banking app for the fictional bank Mesa Verde! This Java Swing application 
 
 ## Features
 
-- **User Authentication:** Secure login system to access the banking features.
-- **Deposit and Withdraw:** Easily deposit or withdraw money from your account.
+- **User Authentication:** Secure login system to access the banking features utilizing a database.
+- **Deposit and Withdraw:** Easily deposit or withdraw money from the account.
 - **Transfer:** Transfer funds to another user within the system.
 - **Transaction History:** View a detailed history of past transactions.
-- **Responsive GUI:** Java Swing provides an intuitive and user-friendly interface.
 
 <img src="demo.gif" width="400" height="600" />
 
