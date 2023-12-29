@@ -15,14 +15,3 @@ Java banking app for the fictional bank Mesa Verde! This Java Swing application 
 - **Transaction History:** View a detailed history of past transactions.
 
 <img src="demo.gif" width="400" height="600" />
-
-## Getting Started
-
-To run the Banking App locally, follow these steps:
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/fabianmedina23/Banking-Application-GUI.git
-
-
-
