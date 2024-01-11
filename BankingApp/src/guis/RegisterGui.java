@@ -127,7 +127,7 @@ public class RegisterGui  extends BaseFrame {
 				repasswordPanel.add(repasswordField);
 				add(repasswordPanel);
 				
-				// login buttons -----------------------
+				// login buttons
 				JButton registerButton = new JButton("Register");
 				registerButton.setBounds(20, 460, getWidth() - 50, 40);
 				registerButton.setFont(new Font("Arial", Font.PLAIN, 20));
